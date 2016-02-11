@@ -1,0 +1,183 @@
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\ApplicationInsights.config
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\csc.exe
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\vbc.exe
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\VBCSCompiler.exe
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\TR22Demo.dll.config
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\TR22Demo.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\TR22Demo.pdb
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Antlr3.Runtime.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\EntityFramework.SqlServer.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.Web.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.ApplicationInsights.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Net.Http.Formatting.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Helpers.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.Owin.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.WebHost.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Mvc.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Optimization.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Razor.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.Deployment.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.Razor.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\WebGrease.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.Web.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.ApplicationInsights.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Net.Http.Formatting.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Helpers.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.WebHost.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Mvc.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Optimization.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Razor.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.Deployment.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.WebPages.Razor.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Antlr3.Runtime.pdb
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\EntityFramework.SqlServer.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\bin\System.Web.Http.Owin.xml
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\obj\Release\TR22Demo.dll
+c:\users\david\documents\visual studio 2015\Projects\TR22Demo\obj\Release\TR22Demo.pdb
+F:\U2\UpdateApp\TR22Demo\bin\ApplicationInsights.config
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\csc.exe
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\System.Collections.Immutable.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\System.Reflection.Metadata.dll
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\vbc.exe
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\VBCSCompiler.exe
+F:\U2\UpdateApp\TR22Demo\bin\roslyn\VBCSCompiler.exe.config
+F:\U2\UpdateApp\TR22Demo\bin\TR22Demo.dll.config
+F:\U2\UpdateApp\TR22Demo\bin\TR22Demo.dll
+F:\U2\UpdateApp\TR22Demo\bin\TR22Demo.pdb
+F:\U2\UpdateApp\TR22Demo\bin\Antlr3.Runtime.dll
+F:\U2\UpdateApp\TR22Demo\bin\EntityFramework.dll
+F:\U2\UpdateApp\TR22Demo\bin\EntityFramework.SqlServer.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.DependencyCollector.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.Web.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.WindowsServer.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.ApplicationInsights.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.Core.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Azure.Amqp.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Azure.Devices.Client.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Cookies.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Facebook.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Google.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.OAuth.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Twitter.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Web.Infrastructure.dll
+F:\U2\UpdateApp\TR22Demo\bin\Newtonsoft.Json.dll
+F:\U2\UpdateApp\TR22Demo\bin\Owin.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Net.Http.Formatting.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Helpers.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.Owin.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.WebHost.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Mvc.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Optimization.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Razor.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.Deployment.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.dll
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.Razor.dll
+F:\U2\UpdateApp\TR22Demo\bin\WebGrease.dll
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.DependencyCollector.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.Web.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AI.WindowsServer.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.ApplicationInsights.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Azure.Amqp.pdb
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Azure.Amqp.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\U2\UpdateApp\TR22Demo\bin\Newtonsoft.Json.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Net.Http.Formatting.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Helpers.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.WebHost.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Mvc.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Optimization.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Razor.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.Deployment.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.WebPages.Razor.xml
+F:\U2\UpdateApp\TR22Demo\bin\Antlr3.Runtime.pdb
+F:\U2\UpdateApp\TR22Demo\bin\EntityFramework.xml
+F:\U2\UpdateApp\TR22Demo\bin\EntityFramework.SqlServer.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.Core.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Facebook.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Cookies.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.OAuth.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Google.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.Twitter.xml
+F:\U2\UpdateApp\TR22Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\U2\UpdateApp\TR22Demo\bin\System.Web.Http.Owin.xml
+F:\U2\UpdateApp\TR22Demo\obj\Release\TR22Demo.csprojResolveAssemblyReference.cache
+F:\U2\UpdateApp\TR22Demo\obj\Release\TR22Demo.dll
+F:\U2\UpdateApp\TR22Demo\obj\Release\TR22Demo.pdb
